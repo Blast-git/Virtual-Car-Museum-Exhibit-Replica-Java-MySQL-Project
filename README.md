@@ -19,6 +19,6 @@ I have created a car exhibition museum website's replica using java swing. The a
 
 - MySQL for robust database design and management.
 
--GUI development for an intuitive user interface.
+- GUI development for an intuitive user interface.
 
--Video creation and editing to showcase the project effectively.
+- Video creation and editing to showcase the project effectively.
